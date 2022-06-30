@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/osm-location/static/css/main.6bbcb978.css",
+    "main.js": "/osm-location/static/js/main.b875c796.js",
+    "static/media/placeholder.png": "/osm-location/static/media/placeholder.2a773c39619085913003.png",
+    "index.html": "/osm-location/index.html",
+    "main.6bbcb978.css.map": "/osm-location/static/css/main.6bbcb978.css.map",
+    "main.b875c796.js.map": "/osm-location/static/js/main.b875c796.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bbcb978.css",
+    "static/js/main.b875c796.js"
+  ]
+}
